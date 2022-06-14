@@ -1,4 +1,4 @@
-# Olá! Bem vindo ao meu respositório! 💻
+# Olá! Bem-vindo ao meu respositório! 💻
 
 <div align="center">
   <a href="https://github.com/felipeshonorato">
